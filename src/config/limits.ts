@@ -99,6 +99,6 @@
   compatibility: {
     // Single source of truth for /config.version and /api/version.
     // /config.version 与 /api/version 的统一版本号来源。
-    bitwardenServerVersion: '2025.12.0',
+    bitwardenServerVersion: '2026.1.0',
   },
 } as const;
